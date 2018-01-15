@@ -1,0 +1,21 @@
+header {
+  text-align: center;
+  border:6px dotted black;
+  color: #00ff08;
+  font-family: Courier New;
+}
+
+body {
+    background-color: #8c35ff;
+}
+div {
+  border: 6px solid black;
+  color:#ff0000;
+}
+
+div2
+
+p {
+  font-family: Courier New;
+  color: #000000;
+}
