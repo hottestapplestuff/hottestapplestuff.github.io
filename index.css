@@ -13,7 +13,10 @@ div {
   color:#ff0000;
 }
 
-div2
+#nav li{
+  display:inline;
+}
+  
 
 p {
   font-family: Courier New;
