@@ -13,10 +13,15 @@ div {
   color:#ff0000;
 }
 
-li{
+#nav li{
   display: inline;
 }
   
+#nav a{
+display: block;
+padding: 10px;
+background-color: #ff730f;
+}
 
 p {
   font-family: Courier New;
