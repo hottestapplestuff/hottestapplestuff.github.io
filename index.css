@@ -21,6 +21,12 @@ div {
     padding: 10px;
     background-color: #ff730f;
     width: 14%;
+  text-decoration: none;
+  text-align: center;
+}
+
+#nav a:hover{
+background-color: #fffa00;
 }
 
 #nav{
