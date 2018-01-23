@@ -16,14 +16,14 @@ div {
 #nav li{
   display: inline;
 }
-#nav a{
-display: block;
-padding: 10px;
-background-color: #ff730f;
-width: 18%;
+#nav a {
+    display: inline-block;
+    padding: 10px;
+    background-color: #ff730f;
+    width: 14%;
 }
 
-#nav ul{
+#nav{
 padding: 0px;
 }
 
